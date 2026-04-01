@@ -23,12 +23,12 @@ Designed a scalable data pipeline to simulate real-world sports analytics, enabl
 ---
 
 ## 🏗️ Architecture  
-> 
+<img src="images/architecture.png" width="800"/>
 
 ---
 
 ## 🔄 Pipeline  
-> Add ADF pipeline screenshot here  
+<img src="images/pipeline.png" width="800"/>
 
 ---
 
@@ -70,7 +70,10 @@ Designed a scalable data pipeline to simulate real-world sports analytics, enabl
 ---
 
 ## 📷 Project Screenshots  
-> Add architecture and pipeline images here  
+<img src="images/architecture.png" width="800"/>
+<img src="images/pipeline.png" width="800"/>
+<img src="images/SQL_Result.png" width="800"/>
+<img src="images/Storage_Container_Structure.png" width="800"/>
 
 ---
 
